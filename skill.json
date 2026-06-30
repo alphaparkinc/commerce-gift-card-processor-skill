@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "commerce-gift-card-processor-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "Commerce checkout gift cards validation and partial balance deduction skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate commerce-gift-card-processor-skill operations using the input configurations."
+}
